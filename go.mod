@@ -1,3 +1,3 @@
-module github.com/SingularityFuel/Wiz
+module github.com/SingularityFuel/wiz
 
 go 1.24.0

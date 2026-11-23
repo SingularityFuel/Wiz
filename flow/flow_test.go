@@ -4,7 +4,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/SingularityFuel/Wiz/flow"
+	"github.com/SingularityFuel/wiz/flow"
 )
 
 func TestFlowInternals(t *testing.T) {
