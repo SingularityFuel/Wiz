@@ -8,4 +8,5 @@ import (
 
 func TestTextConversion(t *testing.T) {
 	_ = wiz.String("hello")
+	_ = wiz.Line(nil)
 }
